@@ -1,4 +1,4 @@
-## Caf-Metrics: Maximizing Maven Roasters' Revenue Potential
+## CafeMetrics: Maximizing Maven Roasters' Revenue Potential
 
 - Enhanced NYC’s Coffee Shop Sales for Maven Roasters through advanced Excel analysis, including comprehensive data cleaning and transformation to ensure accuracy and reliability in the analysis process.
 - Leveraged PivotTables and PivotCharts to reveal a consistent upward revenue trend over the past 6 months.
